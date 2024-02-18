@@ -37,11 +37,10 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
 
-# 📊 GitHub Stats:
-<!--![](https://github-readme-stats.vercel.app/api?username=mohitrpatil&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>-->
+<!--# 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ninadnale&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ninadnale&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+-->
 [![](https://visitcount.itsvg.in/api?id=ninadnale&icon=0&color=0)](https://visitcount.itsvg.in)
 <!--
 Template:
