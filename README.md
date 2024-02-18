@@ -4,7 +4,7 @@
 💬 Ask me about Automation, Cloud, DevOps. <br>
 📫 How to reach me: <br> 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ninadnale/)
-[![Email]([https://img.shields.io/badge/twitter-%230077B5.svg?logo=x&logoColor=black](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white))](mailto:ninadnale@gmail.com) 
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ninadnale@gmail.com) 
 <br><br>
 
 <!--
